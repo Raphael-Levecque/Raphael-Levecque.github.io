@@ -1,0 +1,16 @@
+main: 
+  - title: "Restauration"
+    url : "restauration"
+  - title: "Visite"
+    url : "visite"
+  - title: "Divertissement"
+    url : "divertissement"
+  - title: "Voir raph"
+    url : "raph"
+  - title: "Acitivités manuelles"
+    url : "activités"
+  - title: "Divers"
+    url : "divers"
+  - title: "Café / Pâtisserie"
+    url : "cafe"
+  
