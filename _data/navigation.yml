@@ -1,11 +1,11 @@
 main: 
   - title: "Restauration"
     url : "restauration"
-  - title: "Visite"
+  - title: "Visite culturelles"
     url : "visite"
   - title: "Divertissement"
     url : "divertissement"
-  - title: "Voir raph"
+  - title: "Raph"
     url : "raph"
   - title: "Acitivités manuelles"
     url : "activités"
