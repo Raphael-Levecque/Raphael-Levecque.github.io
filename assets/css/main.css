@@ -2800,7 +2800,7 @@ body:hover .visually-hidden button {
   position:relative;
   width:1.5rem;
   height:.25rem;
-  background:purple; /*ok*/
+  background:lightgreen; /*ok*/
   margin:auto;
   -webkit-transition:0.3s;
   transition:0.3s
@@ -2812,7 +2812,7 @@ body:hover .visually-hidden button {
   left:0;
   width:1.5rem;
   height:.25rem;
-  background:purple; /*ok*/
+  background:lightgreen; /*ok*/
   -webkit-transition:0.3s;
   transition:0.3s
 }
@@ -2850,7 +2850,7 @@ body:hover .visually-hidden button {
     width:100%;
     height:100%;
     opacity:0;
-    background-color:lightgreen; /*ok*/
+     /*ok*/
     -webkit-transition:all 0.2s ease-in-out;
     transition:all 0.2s ease-in-out;
     pointer-events:none
@@ -2865,7 +2865,7 @@ body:hover .visually-hidden button {
 .greedy-nav__toggle:hover .navicon,
 .greedy-nav__toggle:hover .navicon:before,
 .greedy-nav__toggle:hover .navicon:after {
-  background:purple
+  background:lightgreen
 }
 .greedy-nav__toggle:hover.close .navicon {
   background:transparent
