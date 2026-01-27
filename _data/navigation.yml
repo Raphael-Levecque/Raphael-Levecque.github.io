@@ -8,9 +8,9 @@ main:
   - title: "Raph"
     url : "raph"
   - title: "Acitivités manuelles"
-    url : "activités"
+    url : "activites"
   - title: "Divers"
     url : "divers"
-  - title: "Café / Pâtisserie"
+  - title: "Café / Sucrerie"
     url : "cafe"
   
