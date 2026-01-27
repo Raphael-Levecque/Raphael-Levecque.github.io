@@ -13,7 +13,7 @@ title: "Divers"
 - :pushpin: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
-# Où prendre un petit café / manger une petite sucrerie ?
+# D'autres choses sympathiques
 
 - **Aju** :blue_heart: [:link:](https://www.aju-concept.com/) [:pushpin:](https://maps.apple.com/place?place-id=ICA9C7225A03CF38F&address=224+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6287687%2C3.0525738&name=AJU+Concept+Store&_provider=9902)
 
@@ -51,7 +51,7 @@ desc
 
 desc 
 
-- **Jardin des géants** :green_heart: [:link:](https://www.instagram.com/lattelille/?hl=fr) [:pushpin:](https://maps.apple.com/place?place-id=IC131753C081456F7&address=1+Rue+de+la+Communaut%C3%A9%2C+59110+La+Madeleine%2C+France&coordinate=50.6426776%2C3.074863&name=Jardin+des+G%C3%A9ants&_provider=9902)
+- **Jardin des géants** :green_heart: [:link:](https://www.lilletourism.com/explorer/hello-nature/prendre-lair/parcs-jardins/jardin-des-geants-lille-fr-4432142/) [:pushpin:](https://maps.apple.com/place?place-id=IC131753C081456F7&address=1+Rue+de+la+Communaut%C3%A9%2C+59110+La+Madeleine%2C+France&coordinate=50.6426776%2C3.074863&name=Jardin+des+G%C3%A9ants&_provider=9902)
 
 <img src="/assets/images/divers/geant.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
@@ -69,7 +69,7 @@ desc
 
 desc 
 
-- **Marché de Wazemmes** :blue_heart: [:link:](https://www.lille.fr/Nos-equipements/Marche-de-Wazemmes) [:pushpin:](hhttps://maps.apple.com/place?place-id=I101C40AD5D77682A&address=Place+de+la+Nouvelle+Aventure%2C+59033+Lille%2C+France&coordinate=50.6256924%2C3.0500311&name=March%C3%A9+de+Wazemmes&_provider=9902)
+- **Marché de Wazemmes** :blue_heart: [:link:](https://www.lille.fr/Nos-equipements/Marche-de-Wazemmes) [:pushpin:](https://maps.apple.com/place?place-id=I101C40AD5D77682A&address=Place+de+la+Nouvelle+Aventure%2C+59033+Lille%2C+France&coordinate=50.6256924%2C3.0500311&name=March%C3%A9+de+Wazemmes&_provider=9902)
 
 <img src="/assets/images/divers/wazemmes.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 

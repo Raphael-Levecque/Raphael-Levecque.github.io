@@ -54,7 +54,7 @@ desc
 
 desc 
 
-- **Friterie Mestré** :purple_heart: [:link:](https://www.facebook.com/friterie.mestre) [:pushpin:](https://maps.apple.com/place?place-id=IB8347AAA11A8B2CE&address=305+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6276798%2C3.0507231&name=Friterie+Mestr%C3%A9&_provider=9902)
+- **Friterie Mestré** :purple_heart: [:link:](https://www.instagram.com/friteriemestre/?hl=fr) [:pushpin:](https://maps.apple.com/place?place-id=IB8347AAA11A8B2CE&address=305+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6276798%2C3.0507231&name=Friterie+Mestr%C3%A9&_provider=9902)
 
 <img src="/assets/images/restauration/mestre.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
@@ -104,7 +104,7 @@ desc
 
 - **Les tontons Afro** :purple_heart: [:link:](https://www.lestontonsafro.fr/) [:pushpin:](https://maps.apple.com/place?place-id=IDD713E3E01D1C8E&address=42+Rue+de+la+Monnaie%2C+59800+Lille%2C+France&coordinate=50.6413289%2C3.0625591&name=Les+Tontons+Afro&_provider=9902)
 
-<img src="/assets/images/restauration/loa.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+<img src="/assets/images/restauration/tonton.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 desc 
 
@@ -120,7 +120,7 @@ desc
 
 desc 
 
-- **Maison L** :purple_heart: [:link:](https://maison-l.eatbu.com/?lang=fr) [:pushpin:](https://www.google.fr/maps/place/Maison+L+-+Restaurant+Libanais+Lille/@50.6274332,3.0468159,17z/data=!3m1!4b1!4m6!3m5!1s0x47c2d564febb66fd:0xa36b7bedadb80389!8m2!3d50.6274298!4d3.0493908!16s%2Fg%2F11kqqls5sj?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D)
+- **Maison L** :purple_heart: [:link:](https://maison-l.eatbu.com/?lang=fr) [:pushpin:](https://maps.apple.com/place?place-id=I422FB525FDD33A49&address=324+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6273742%2C3.0494222&name=Maison+L&_provider=9902)
 
 <img src="/assets/images/restauration/maison_l.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
