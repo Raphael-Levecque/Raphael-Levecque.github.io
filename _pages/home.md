@@ -4,6 +4,9 @@ permalink: /
 hidden: true  
 ---
 
-cc
-
-<img src="/assets/images/other/pixel.png" alt="pixel" style="display:block; margin: 0 auto;">
+<div style="display:block; margin: 0 auto;">
+  <img src="/assets/images/other/pixel.png" alt="pixel">
+  <p>
+    cc
+  </p>
+</div>
