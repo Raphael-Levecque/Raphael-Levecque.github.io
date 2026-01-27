@@ -1812,7 +1812,7 @@ th {
   transition:none
 }
 .greedy-nav a:hover {
-  color: green /*ok*/
+  color: lightblue /*ok*/
 }
 .greedy-nav a.site-logo {
   margin-left:0;
