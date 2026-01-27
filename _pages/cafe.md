@@ -51,7 +51,7 @@ desc
 
 desc 
 
-- **Crowntea** :green_heart: [:link:](https://www.instagram.com/crowntea59/) [:pushpin:](https://maps.apple.com/place?place-id=IE5E04555FEFA0D78&address=31+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.635124%2C3.0642033&name=Crowntea&_provider=9902)
+- **Crowntea** :purple_heart: [:link:](https://www.instagram.com/crowntea59/) [:pushpin:](https://maps.apple.com/place?place-id=IE5E04555FEFA0D78&address=31+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.635124%2C3.0642033&name=Crowntea&_provider=9902)
 
 <img src="/assets/images/cafe/crowntea.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
