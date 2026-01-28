@@ -10,7 +10,6 @@ title: "Divertissement"
 - :blue_heart: : testé 
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
 # Où s'amuser à Lille ?

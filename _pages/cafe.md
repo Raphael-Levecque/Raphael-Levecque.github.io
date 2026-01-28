@@ -10,7 +10,6 @@ title: "Café / Sucrerie "
 - :blue_heart: : testé 
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
 # Où prendre un petit café / manger une petite sucrerie ?
@@ -87,6 +86,12 @@ autre très bon glacier du vieux-lille, qui ne détrône toutefois pas astral da
 
 café aux inspirations japonaises encore une fois, encore jamais testé mais un ami me l'a fortement recommandé !
 
+- **Hill bar** :purple_heart: [:link:](https://hillbar.fr/) [:apple:](https://maps.apple.com/place?place-id=I55DD7ABB59E22F5C&address=52+Rue+Basse%2C+59800+Lille%2C+France&coordinate=50.6387076%2C3.0599814&name=The+French+Bastards&_provider=9902)
+
+<img src="/assets/images/cafe/hill.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+chocolatier, ils vendent aussi les glaces de gelato, bon à savoir quand il y a du monde, très bon chocolats et pâtisseries, je recommande les barres de chocolat fourrées !!
+
 - **Latte Coffee** :blue_heart: [:link:](https://www.instagram.com/lattelille/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I947DAB4324C330EF&address=3+Rue+de+Roubaix%2C+59000+Lille%2C+France&coordinate=50.6377969%2C3.0674593&name=Latte+Coffee+Lille&_provider=9902)
 
 <img src="/assets/images/cafe/latte.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
@@ -105,6 +110,12 @@ sucrecries et boissons plutôt bonnes, à déguster entourées de verdures
 
 un autre de mes cafés favoris à lille, elle propose principalement des cookies qui sont délicieux, mais régulièrement elle propose aussi des brioches, cinnamon rolls et plein d'autres trucs
 
+- **L'ogre de carrouselberg** :green_heart: [:link:](https://www.ogre-de-carrouselberg.com/) [:apple:](https://maps.apple.com/place?place-id=I87CBC86D42CE6998&address=17+Rue+des+Vieux+Murs%2C+59800+Lille%2C+France&coordinate=50.6406059%2C3.0611944&name=L%27Ogre+de+Carrouselberg&_provider=9902)
+
+<img src="/assets/images/cafe/ogre.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+ça fait un moment que je veux testé, leurs pâtisseries ont l'air divines aussi
+
 - **Mamatte** :blue_heart: [:link:](https://boutiques.mamatte.fr/lille-rihour/) [:apple:](https://maps.apple.com/place?place-id=ID93E4F2E15020004&address=35+Place+Rihour%2C+59800+Lille%2C+France&coordinate=50.6355385%2C3.0634758&name=Mamatte&_provider=9902)
 
 <img src="/assets/images/cafe/mamatte.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
@@ -117,14 +128,10 @@ café bien situé, pas mal de place à l'intérieur
 
 les meilleures pâtisseries que j'ai mangées viennent d'ici, beaucoup s'y rendent pour leurs gaufres, je préfère prendre une pâtisserie, possibilité de déguster sur place dans un cadre charmant mais ça revient un peu cher, vendent de bonnes glaces en été aussi
 
-- **L'ogre de carrouselberg** :green_heart: [:link:](https://www.ogre-de-carrouselberg.com/) [:apple:](https://maps.apple.com/place?place-id=I87CBC86D42CE6998&address=17+Rue+des+Vieux+Murs%2C+59800+Lille%2C+France&coordinate=50.6406059%2C3.0611944&name=L%27Ogre+de+Carrouselberg&_provider=9902)
 
-<img src="/assets/images/cafe/ogre.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
-
-jamais testé mais leurs pâtisseries ont l'air divines aussi
-
-- TODO french bastards
+- **The french bastards** :blue_heart: [:link:](https://thefrenchbastards.fr/fr) [:apple:](maps.apple.com/place?place-id=I55DD7ABB59E22F5C&address=52+Rue+Basse%2C+59800+Lille%2C+France&coordinate=50.6387076%2C3.0599814&name=The+French+Bastards&_provider=9902)
 
 <img src="/assets/images/cafe/bastards.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-- TODO hill bar
+boulangerie sympathique, présente dans le vieux-lille, ils font des trucs innovants des fois
+

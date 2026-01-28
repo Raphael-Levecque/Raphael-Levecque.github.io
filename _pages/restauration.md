@@ -10,7 +10,6 @@ title: "Restauration"
 - :blue_heart: : testé 
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
 # Où manger à Lille ?
@@ -135,8 +134,13 @@ encore une adresse qui me fait presque regretter mon déménagement, street food
 
 <img src="/assets/images/restauration/marco.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-
 pizzeria pas si vieille que ça, le gars est vraiment passioné par son boulot, il apporte aussi quelques inspirations libanaises dans sa cuisine, mention spéciale à la pizza poulet maroilles
+
+- **Mian dian** :purple_heart: [:apple:](https://maps.apple.com/place?place-id=I7E60E4EDE6BD93DE&address=113+Rue+Meurein%2C+59800+Lille%2C+France&coordinate=50.6323767%2C3.048634&name=Mian+Dian&_provider=9902)
+
+<img src="/assets/images/restauration/mian.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+pour manger d'excellents raviolis et nouilles chinoises à des prix doux !!
 
 - **Moshi Moshi** :green_heart: [:link:](https://www.facebook.com/people/MOSHI-MOSHI/100063499242564/) [:apple:](https://maps.apple.com/place?place-id=I222CBCB8DB2135B4&address=145+Rue+du+Molinel%2C+59160+Lille%2C+France&coordinate=50.6325558%2C3.0639395&name=Moshi+Moshi&_provider=9902)
 
@@ -173,5 +177,3 @@ parmi mes burgers préférées de lille, ils sont gourmands et goûtus !!
 <img src="/assets/images/restauration/taco.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 p'tit mexicain rue gambetta, les burritos sont généreux et les prix plutôt raisonnables je dirais 
-
-- mian dian todo

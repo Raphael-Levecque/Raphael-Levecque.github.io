@@ -10,7 +10,6 @@ title: "Divers"
 - :blue_heart: : testé 
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
-- :apple: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
 # D'autres choses sympathiques
@@ -37,8 +36,19 @@ un peu le seul sympa parc à lille même, que ce soit pour se poser ou bien se b
 
 <img src="/assets/images/divers/henry.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-
 friperie solidaire, le personnel est adorable, peut-être pas l'offre la plus diversifiée mais en tout cas des prix doux
+
+- **Dernier bar avant la fin du monde** :purple_heart: [:link:](https://dernierbar.com/) [:apple:](https://maps.apple.com/place?place-id=I2660DCCB405C192C&address=12+Rue+de+Pas%2C+59800+Lille%2C+France&coordinate=50.6373362%2C3.0613764&name=Dernier+Bar+avant+la+Fin+du+Monde&_provider=9902)
+
+<img src="/assets/images/divers/dernier.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+souvent le bar où l'on va avec les camarades de la fac, très cool, repère à geek un peu mais ça pue pas promis
+
+- **Etablissement français du sang** :purple_heart: [:link:](https://dondesang.efs.sante.fr/trouver-une-collecte/5467/sang) [:apple:](https://maps.apple.com/place?place-id=I8285F698BFCCEC7D&address=42+Avenue+Charles+Saint-Venant%2C+59800+Lille%2C+France&coordinate=50.6342129%2C3.0701287&name=Etablissement+Fran%C3%A7ais+du+Sang&_provider=9902)
+
+<img src="/assets/images/divers/sang.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+et pourquoi pas en profiter pour faire un don de sang ?? je suis sûr que ça se passera bien cette fois tqt
 
 - **Ferme pédagogique marcel dhénin** :purple_heart: [:link:](https://www.lille.fr/Nos-equipements/La-ferme-pedagogique-Marcel-Dhenin) [:apple:](https://maps.apple.com/place?place-id=IF07BFFFDB2E866B0&address=14+Rue+Eug%C3%A8ne+Jacquet%2C+59800+Lille%2C+France&coordinate=50.6377193%2C3.079798&name=Ferme+P%C3%A9dagogique+Marcel+Dh%C3%A9nin&_provider=9902)
 
@@ -57,6 +67,12 @@ friperie stylée, jamais acheté là bas par contre, je connais pas trop les pri
 <img src="/assets/images/divers/geant.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 jamais fait mais le parc a l'air sympa avec ses têtes de géants, mais petit
+
+- **La pharmacie bar** :green_heart: [:link:](https://www.instagram.com/la_pharmacie_bar/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I3C71D97E9F6B5BA1&address=45+Rue+Royale%2C+59800+Lille%2C+France&coordinate=50.6399972%2C3.0578291&name=La+Pharmacie+Bar&_provider=9902)
+
+<img src="/assets/images/divers/pharma.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+bar avec des cocktails farfelus, pas encore fait mais apparemment c'est cool
 
 - **Le bateau livre** :purple_heart: [:link:](https://www.instagram.com/bateaulivrelille/) [:apple:](https://maps.apple.com/place?place-id=IF182C9B1E8C27AE9&address=154+Rue+L%C3%A9on+Gambetta%2C+59260+Lille%2C+France&coordinate=50.6295173%2C3.0545315&name=Le+Bateau+Livre&_provider=9902)
 
@@ -112,6 +128,12 @@ pour les personnes qui aiment lire leur livre en vo, librairie et libraires ador
 
 un peu excentré, un peu dans un coin paumé de villeneuve d'ascq mais ça a l'air vraiment sympa pour se balader
 
+- **Quai des bananes** :green_heart: [:link:](https://quaidesbananes.fr/) [:apple:](https://maps.apple.com/place?place-id=ID08DD8B5A47710BA&address=84+Rue+Royale%2C+59800+Lille%2C+France&coordinate=50.6419404%2C3.0566319&name=Quai+des+Bananes&_provider=9902)
+
+<img src="/assets/images/divers/bananes.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+il semblerait que les cocktails valent le détour, je veux tester ...
+
 - **Tequila** :blue_heart: [:link:](https://tequilae-shop.com/nos-boutiques/) [:apple:](https://maps.apple.com/place?place-id=I480E825358A87A01&address=21+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.6351332%2C3.0639433&name=T%C3%A9quila&_provider=9902)
 
 <img src="/assets/images/divers/tequila.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
@@ -124,8 +146,3 @@ boutique de bijoux et d'autres accessoires, leurs bijoux sont d'une qualité cor
 
 lieu charmant avec différents stands où l'on peut acheter affiches de films, livres, vinyles et plein d'autres choses
 
-- TODO maison du sang
-
-- Dernier bar avant la fin du monde
-
-- bar masséna

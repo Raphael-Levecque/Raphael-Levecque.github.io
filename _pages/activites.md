@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /divers/
-title: "Divers"
+permalink: /activites/
+title: "Actvités manuelles"
 ---
 
 ## Légende
@@ -10,100 +10,67 @@ title: "Divers"
 - :blue_heart: : testé 
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
-- :pushpin: : localisation (google maps)
 - :apple: : localisation (apple maps)
 
 # Où faire des activités manuelles ?
 
-- **Aju** :blue_heart: [:link:](https://www.aju-concept.com/) [:apple:](https://maps.apple.com/place?place-id=ICA9C7225A03CF38F&address=224+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6287687%2C3.0525738&name=AJU+Concept+Store&_provider=9902)
+- **La papoterie** :green_heart: [:link:](https://papoterie-cafe.fr/) [:apple:](https://maps.apple.com/place?place-id=IDAC9F58D215272&address=40+Avenue+du+Peuple+Belge%2C+59800+Lille%2C+France&coordinate=50.6427304%2C3.0636298&name=La+Papoterie+-+Cafe+C%C3%A9ramique&_provider=9902)
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+<img src="/assets/images/activite/papoterie.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-- **Balade en vélo le long de la deûle** :purple_heart: [:link:](https://www.lillemetropole.fr/bords-de-deule) 
+un café céramique ! je crois que j'ai pas besoin d'en dire plus c'est assez explicite ...
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+- **Heipoe** :green_heart: [:link:](https://heipoecreations.com/) 
 
-- **Balade à la Citadelle de Lille** :purple_heart: [:link:](https://parcdelacitadelle.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=ID5318241C145E56&address=Voie+Pi%C3%A9tonne+du+Bois+de+la+De%C3%BBle%2C+59260+Lille%2C+France&coordinate=50.64269124898989%2C3.044820874929428&name=Parc+de+la+Citadelle&_provider=9902)
+<img src="/assets/images/activite/heipoe.webp" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+propose différents ateliers, assemblage de bijoux, grigris pour les sacs / porte clé
 
-- **Chez Henry** :purple_heart: [:link:](https://www.croix-rouge.fr/j-achete-solidaire/chez-henry) [:apple:](https://maps.apple.com/place?place-id=IF0BF5EDABA714ACC&address=158+Rue+L%C3%A9on+Gambetta%2C+59800+Lille%2C+France&coordinate=50.6294798%2C3.0544538&name=Chez+Henry+-+Croix-Rouge+fran%C3%A7aise&_provider=9902)
+- **Atelier polette** :green_heart: [:link:](https://parcdelacitadelle.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=I77A0911CD732F670&address=103+Rue+Gaston+Baratte%2C+59493+Villeneuve-d%27Ascq%2C+France&coordinate=50.6203791%2C3.1614225&name=Atelier+Polette&_provider=9902)
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+<img src="/assets/images/activite/polette.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-- **Ferme pédagogique marcel dhénin** :purple_heart: [:link:](https://www.lille.fr/Nos-equipements/La-ferme-pedagogique-Marcel-Dhenin) [:apple:](https://maps.apple.com/place?place-id=IF07BFFFDB2E866B0&address=14+Rue+Eug%C3%A8ne+Jacquet%2C+59800+Lille%2C+France&coordinate=50.6377193%2C3.079798&name=Ferme+P%C3%A9dagogique+Marcel+Dh%C3%A9nin&_provider=9902)
+une nouvelle fois, plusieurs activités, peintures sur céramiques, tufting, couronne de fleurs séchées, couture, aquarelle, bijoux, ...
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+- **Atelier Beju** :green_heart: [:link:](https://atelierbeju.sumupstore.com/)
 
-- **Friperie Aopop** :purple_heart: [:link:](https://www.instagram.com/friperie.aopop/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I45DAE46B22B63DF3&address=6+Rue+Ratisbonne%2C+59800+Lille%2C+France&coordinate=50.6303387%2C3.0559825&name=Friperie+Aopop&_provider=9902)
+<img src="/assets/images/activite/beju.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+principalement activites bijoux et bougies
 
-- **Jardin des géants** :green_heart: [:link:](https://www.instagram.com/lattelille/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=IC131753C081456F7&address=1+Rue+de+la+Communaut%C3%A9%2C+59110+La+Madeleine%2C+France&coordinate=50.6426776%2C3.074863&name=Jardin+des+G%C3%A9ants&_provider=9902)
+- **Turquoise souk** :green_heart: [:link:](https://www.instagram.com/turquoisesouk/?hl=fr)
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+<img src="/assets/images/activite/turquoise.png" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-- **Le bateau livre** :purple_heart: [:link:](https://www.instagram.com/bateaulivrelille/) [:apple:](https://maps.apple.com/place?place-id=IF182C9B1E8C27AE9&address=154+Rue+L%C3%A9on+Gambetta%2C+59260+Lille%2C+France&coordinate=50.6295173%2C3.0545315&name=Le+Bateau+Livre&_provider=9902)
+boutique de bijoux qui propose d'assembler ses propres bijoux à certaines occasions
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+- **La wilderie** :purple_heart: [:link:](https://lawilderie.com/) [:apple:](https://maps.apple.com/place?place-id=I58D5C145D32F5609&address=2+Rue+Saint-%C3%89tienne%2C+59800+Lille%2C+France&coordinate=50.6375242%2C3.0619279&name=La+Wilderie&_provider=9902)  [:apple:](https://maps.apple.com/place?place-id=IA7D6D3C0826CDA68&address=169+Rue+Sadi+Carnot%2C+59350+Saint-Andr%C3%A9-lez-Lille%2C+France&coordinate=50.6640827%2C3.0564177&name=Wilder+By+La+Wilderie&_provider=9902)
 
-- **Le youyou** :green_heart: [:link:](https://leyouyou59.fr/) [:apple:](https://maps.apple.com/place?place-id=IE01F9E497C02104C&address=189+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6290342%2C3.0538827&name=Le+Youyou&_provider=9902)
+<img src="/assets/images/activite/wilderie.jpeg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+café que je t'ai recommandé dans la catégorie concernée, propose aussi régulièrement des activités, cuisine, bijoux, poterie, ...
+il y a deux localisations parce qu'ils font les atelier soit au café de lille, soit à celui de saint-andré
 
+- **Pop cup** :green_heart: [:link:](https://popcup.fr/) [:apple:](https://maps.apple.com/place?place-id=IFEEBA6DA74405746&address=251+Rue+Pasteur%2C+59700+Marcq-en-Bar%C5%93ul%2C+France&coordinate=50.6563714%2C3.0787708&name=Pop+Cup&_provider=9902)
 
-- **Marché de Wazemmes** :blue_heart: [:link:](https://www.lille.fr/Nos-equipements/Marche-de-Wazemmes) [:apple:](hhttps://maps.apple.com/place?place-id=I101C40AD5D77682A&address=Place+de+la+Nouvelle+Aventure%2C+59033+Lille%2C+France&coordinate=50.6256924%2C3.0500311&name=March%C3%A9+de+Wazemmes&_provider=9902)
+<img src="/assets/images/activite/pop.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+un autre café céramique !
 
-- **Marché Sébastopol** :purple_heart: [:link:](https://www.lille.fr/Nos-equipements/Marche-Sebastopol) [:apple:](https://maps.apple.com/place?place-id=IDAD8EAAEA8010917&address=1+Place+S%C3%A9bastopol%2C+59000+Lille%2C+France&coordinate=50.6292884%2C3.0576095&name=March%C3%A9+S%C3%A9bastopol&_provider=9902)
+- **Gecko céramique** :green_heart: [:link:](https://gecko-cafécéramique.fr/) [:apple:](https://maps.apple.com/place?place-id=IA065139CFD836A27&address=217+Rue+de+Solf%C3%A9rino%2C+59000+Lille%2C+France&coordinate=50.6274185%2C3.0624156&name=Gecko+caf%C3%A9+c%C3%A9ramique&_provider=9902)
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+<img src="/assets/images/activite/gecko.jpeg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
- 
-- **Marin d'eau douce** :purple_heart: [:link:](https://www.marindeaudouce.fr/fr) [:apple:](https://maps.apple.com/place?place-id=IE3E4A4507A691341&address=2+Avenue+Mathias+Delobel%2C+59800+Lille%2C+France&coordinate=50.6377413%2C3.0492854&name=Marin+d%E2%80%99Eau+Douce&_provider=9902)
+et encore un autre !!
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+- **Ohamo** :green_heart: [:link:](https://www.facebook.com/p/OHAMO-LILLE-61551020167435/) [:apple:](https://maps.apple.com/place?place-id=I4D1CE3A5EA51B253&address=6+Rue+Jeanne+Maillotte%2C+59800+Lille%2C+France&coordinate=50.6318426%2C3.0627868&name=Ohamo&_provider=9902)
 
-- **Maison Satori** :purple_heart: [:link:](https://www.maisonsatori.fr/) [:apple:](https://maps.apple.com/place?place-id=IDC908FB8CAE909B4&address=83+Rue+du+Molinel%2C+59160+Lille%2C+France&coordinate=50.6337993%2C3.0669176&name=Maison+Satori&_provider=9902)
+<img src="/assets/images/activite/ohamo.webp" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+un café qui propose de faire de l'aquarelle
 
-- **Mercerie Friperie** :purple_heart: [:link:](https://www.instagram.com/mercerie_friperie/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I81110280CF07B98A&address=34+Rue+d%27Amiens%2C+59800+Lille%2C+France&coordinate=50.6332685%2C3.064494&name=Mercerie+Friperie&_provider=9902)
+- **Vic et Mel** :green_heart: [:link:](https://www.vicetmel.fr/) [:apple:](https://maps.apple.com/place?place-id=IB497F3054D371AC3&address=65+Rue+de+la+Barre%2C+59800+Lille%2C+France&coordinate=50.63837%2C3.0550696&name=Vic+et+Mel+-+Atelier+bougie+&_provider=9902)
 
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+<img src="/assets/images/activite/vic.JPG" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-
-- **Nouvelle librairie internationale V.O** :purple_heart: [:link:](https://www.librairievo.com/) [:apple:](https://maps.apple.com/place?place-id=I2D04D89D685466A&address=66+Rue+Gustave+Delory%2C+59000+Lille%2C+France&coordinate=50.6334937%2C3.0694769&name=Nouvelle+Librairie+Internationale+V.O&_provider=9902)
-
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
-
-- **Parc du Héron** :green_heart: [:link:](https://www.villeneuvedascq.fr/le-parc-du-heron) [:apple:](https://maps.apple.com/place?place-id=IB87C1A4040A4A513&address=Place+Salvador+Allende%2C+59650+Villeneuve-d%27Ascq%2C+France&coordinate=50.6363736%2C3.1475947&name=Parc+du+H%C3%A9ron&_provider=9902)
-
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
-
-- **Tequila** :blue_heart: [:link:](https://tequilae-shop.com/nos-boutiques/) [:apple:](https://maps.apple.com/place?place-id=I480E825358A87A01&address=21+Rue+de+la+Vieille+Com%C3%A9die%2C+59800+Lille%2C+France&coordinate=50.6351332%2C3.0639433&name=T%C3%A9quila&_provider=9902)
-
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
-
-- **Vieille Bourse** :purple_heart: [:link:](https://www.lilletourism.com/explorer/lille-et-ses-environs/musees-et-sites-touristiques/vieille-bourse/) [:apple:](https://maps.apple.com/place?place-id=I817B08C871942257&address=24+Place+du+G%C3%A9n%C3%A9ral+de+Gaulle%2C+59000+Lille%2C+France&coordinate=50.637003%2C3.0642629&name=Vieille+Bourse&_provider=9902)
-
-desc 
-<!-- ![Maison L](assets/images/restauration/maison_l.jpg) -->
+atelier de bougie !
