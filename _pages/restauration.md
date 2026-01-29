@@ -172,10 +172,14 @@ j'avais le souvenir qu'il faisait de la cuisine vg mais il semblerait qu'ils aie
 
 parmi mes burgers préférées de lille, ils sont gourmands et goûteux !!
 
+- **Smokey banh mi** :purple_heart: [:link:](https://www.instagram.com/smokeybanhmi/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I99AA740B4B8B38C7&address=8+Avenue+du+Peuple+Belge%2C+59800+Lille%2C+France&coordinate=50.6418612%2C3.0645257&name=Smokey+Banh+Mi&_provider=9902)
+
+<img src="/assets/images/restauration/smokey.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
+
+vraiment excellent, que ce soit leur bo bun, leur burger, leur poulet frit, je recommande vivement !! (ils ont un stand à kitchen market au nom de poyo)
+
 - **Taco Memo** :purple_heart: [:link:](https://tacomemo.com/) [:apple:](https://maps.apple.com/place?place-id=I6C833001620FD8D6&address=209+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6288708%2C3.0536199&name=Taco+Memo&_provider=9902)
 
 <img src="/assets/images/restauration/taco.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 p'tit mexicain rue gambetta, les burritos sont généreux et les prix plutôt raisonnables je dirais 
-
-- TODO smokey banh mi   

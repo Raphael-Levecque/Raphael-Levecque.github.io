@@ -50,7 +50,7 @@ encore jamais fait non plus, semble fermé actuellement, organise pas mal d'év�
 
 musée plutôt petit néanmoins intéressant pour en apprendre plus sur l'histoire de lille !
 
-- **Musée d'histoire naturelle**  TODO :green_heart: [:link:](https://www.charles-de-gaulle.org/les-lieux-gaulliens/la-maison-natale-charles-de-gaulle/) [:apple:](https://maps.apple.com/place?place-id=I3C5A29C118CB6574&address=9+Rue+Princesse%2C+59000+Lille%2C+France&coordinate=50.6459354%2C3.058799&name=Maison+Natale+Charles+de+Gaulle&_provider=9902)
+- **Musée d'histoire naturelle** :purple_heart: [:link:](https://mhn.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=I5FFD21CAFA4CB770&address=23+Rue+Gosselet%2C+59000+Lille%2C+France&coordinate=50.6264729%2C3.06684&name=Mus%C3%A9e+d%E2%80%99Histoire+Naturelle+de+Lille&_provider=9902)
 
 <img src="/assets/images/visite/histoire.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
