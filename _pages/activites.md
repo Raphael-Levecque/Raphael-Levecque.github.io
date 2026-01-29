@@ -14,6 +14,8 @@ title: "Actvités manuelles"
 
 # Où faire des activités manuelles ?
 
+à mon grand regret j'ai encore jamais réellement fait d'activités manuelles à lille, mais ça va bientôt changer ! tout ça pour dire que je peux pas dire grand chose sur ces lieux, et je pense que t'en connais déjà quelques uns si t'as fait des recherches, mais les voilà !!
+
 - **La papoterie** :green_heart: [:link:](https://papoterie-cafe.fr/) [:apple:](https://maps.apple.com/place?place-id=IDAC9F58D215272&address=40+Avenue+du+Peuple+Belge%2C+59800+Lille%2C+France&coordinate=50.6427304%2C3.0636298&name=La+Papoterie+-+Cafe+C%C3%A9ramique&_provider=9902)
 
 <img src="/assets/images/activite/papoterie.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
