@@ -7,7 +7,7 @@ title: "Restauration"
 ## Légende
 
 - :purple_heart: : testé et approuvé
-- :blue_heart: : testé 
+- :blue_heart: : testé et c'est ok
 - :green_heart: : à tester
 - :link: : lien vers leur site ou réseau
 - :apple: : localisation (apple maps)
