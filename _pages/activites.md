@@ -28,7 +28,7 @@ un café céramique ! je crois que j'ai pas besoin d'en dire plus c'est assez ex
 
 propose différents ateliers, assemblage de bijoux, grigris pour les sacs / porte clés
 
-- **Atelier polette** :green_heart: [:link:](https://parcdelacitadelle.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=I77A0911CD732F670&address=103+Rue+Gaston+Baratte%2C+59493+Villeneuve-d%27Ascq%2C+France&coordinate=50.6203791%2C3.1614225&name=Atelier+Polette&_provider=9902)
+- **Atelier polette** :green_heart: [:link:](https://www.instagram.com/atelier.polette/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I77A0911CD732F670&address=103+Rue+Gaston+Baratte%2C+59493+Villeneuve-d%27Ascq%2C+France&coordinate=50.6203791%2C3.1614225&name=Atelier+Polette&_provider=9902)
 
 <img src="/assets/images/activite/polette.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 

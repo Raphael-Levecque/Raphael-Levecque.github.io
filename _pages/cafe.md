@@ -86,7 +86,7 @@ autre très bon glacier du vieux-lille, qui ne détrône toutefois pas astral da
 
 café aux inspirations japonaises, encore jamais testé mais un ami me l'a fortement recommandé !
 
-- **Hill bar** :purple_heart: [:link:](https://hillbar.fr/) [:apple:](https://maps.apple.com/place?place-id=I55DD7ABB59E22F5C&address=52+Rue+Basse%2C+59800+Lille%2C+France&coordinate=50.6387076%2C3.0599814&name=The+French+Bastards&_provider=9902)
+- **Hill bar** :purple_heart: [:link:](https://hillbar.fr/) [:apple:](https://maps.apple.com/place?place-id=IEEB5CE14C7EDF5A&address=1+bis+Rue+Bartholom%C3%A9+Masurel%2C+59800+Lille%2C+France&coordinate=50.6389408%2C3.0619003&name=Hill+Bar&_provider=9902)
 
 <img src="/assets/images/cafe/hill.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
