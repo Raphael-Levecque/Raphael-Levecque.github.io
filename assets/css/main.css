@@ -1812,7 +1812,7 @@ th {
   transition:none
 }
 .greedy-nav a:hover {
-  color: light#8fd4cb /*ok*/
+  color: #8fd4cb /*ok*/
 }
 .greedy-nav a.site-logo {
   margin-left:0;
@@ -4375,9 +4375,9 @@ body {
 }
 
 h1 {
-  color: light#8fd4cb
+  color: #8fd4cb
 }
 
 h2 {
-  color: light#8fd4cb
+  color: #8fd4cb
 }
