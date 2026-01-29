@@ -26,7 +26,7 @@ un café céramique ! je crois que j'ai pas besoin d'en dire plus c'est assez ex
 
 <img src="/assets/images/activite/heipoe.webp" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-propose différents ateliers, assemblage de bijoux, grigris pour les sacs / porte clé
+propose différents ateliers, assemblage de bijoux, grigris pour les sacs / porte clés
 
 - **Atelier polette** :green_heart: [:link:](https://parcdelacitadelle.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=I77A0911CD732F670&address=103+Rue+Gaston+Baratte%2C+59493+Villeneuve-d%27Ascq%2C+France&coordinate=50.6203791%2C3.1614225&name=Atelier+Polette&_provider=9902)
 
@@ -38,20 +38,20 @@ une nouvelle fois, plusieurs activités, peintures sur céramiques, tufting, cou
 
 <img src="/assets/images/activite/beju.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-principalement activites bijoux et bougies
+principalement ateliers de bijoux et de bougies
 
 - **Turquoise souk** :green_heart: [:link:](https://www.instagram.com/turquoisesouk/?hl=fr)
 
 <img src="/assets/images/activite/turquoise.png" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-boutique de bijoux qui propose d'assembler ses propres bijoux à certaines occasions
+boutique de bijoux qui propose d'assembler ses propres bijoux à certaines occasions, déjà croisée sur certains marchés, leurs bijoux sont très jolis !
 
 - **La wilderie** :purple_heart: [:link:](https://lawilderie.com/) [:apple:](https://maps.apple.com/place?place-id=I58D5C145D32F5609&address=2+Rue+Saint-%C3%89tienne%2C+59800+Lille%2C+France&coordinate=50.6375242%2C3.0619279&name=La+Wilderie&_provider=9902)  [:apple:](https://maps.apple.com/place?place-id=IA7D6D3C0826CDA68&address=169+Rue+Sadi+Carnot%2C+59350+Saint-Andr%C3%A9-lez-Lille%2C+France&coordinate=50.6640827%2C3.0564177&name=Wilder+By+La+Wilderie&_provider=9902)
 
 <img src="/assets/images/activite/wilderie.jpeg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 café que je t'ai recommandé dans la catégorie concernée, propose aussi régulièrement des activités, cuisine, bijoux, poterie, ...
-il y a deux localisations parce qu'ils font les atelier soit au café de lille, soit à celui de saint-andré
+il y a deux localisations parce qu'ils font les ateliers soit au café de lille, soit à celui de saint-andré
 
 - **Pop cup** :green_heart: [:link:](https://popcup.fr/) [:apple:](https://maps.apple.com/place?place-id=IFEEBA6DA74405746&address=251+Rue+Pasteur%2C+59700+Marcq-en-Bar%C5%93ul%2C+France&coordinate=50.6563714%2C3.0787708&name=Pop+Cup&_provider=9902)
 

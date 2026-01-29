@@ -18,13 +18,13 @@ title: "Divers"
 
 <img src="/assets/images/divers/aju.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-j'ai déjà fait un petit tour il y a quelques temps, je me souviens qu'il y avait des p'tit bijoux mimis, ils vendent aussi quelques vêtements, des boissons et de la nourriture je crois
+j'ai déjà fait un petit tour il y a quelques temps, je me souviens qu'il y avait des p'tits bijoux mimis, ils vendent aussi quelques vêtements, des boissons et de la nourriture je crois
 
 - **Balade en vélo le long de la deûle** :purple_heart: [:link:](https://www.lillemetropole.fr/bords-de-deule) 
 
 <img src="/assets/images/divers/deule.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-hâte que les beaux jours reviennent pour reprendre cette habitude, vraiment agréable de se balader à vélo ici, quelques stops qui valent le coup comme le château robersart à wambrechies, je recommande !!
+hâte que les beaux jours reviennent pour reprendre cette habitude, vraiment agréable de se balader à vélo ici, quelques stops qui valent le coup comme le parc robersart à wambrechies, je recommande !!
 
 - **Balade à la Citadelle de Lille** :purple_heart: [:link:](https://parcdelacitadelle.lille.fr/) [:apple:](https://maps.apple.com/place?place-id=ID5318241C145E56&address=Voie+Pi%C3%A9tonne+du+Bois+de+la+De%C3%BBle%2C+59260+Lille%2C+France&coordinate=50.64269124898989%2C3.044820874929428&name=Parc+de+la+Citadelle&_provider=9902)
 
@@ -54,7 +54,7 @@ et pourquoi pas en profiter pour faire un don de sang ?? je suis sûr que ça se
 
 <img src="/assets/images/divers/ferme.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-à quelques pas de la gare lille europe, âne, cochons, chèvres et autres animaux, ils organisent quelques événements de temps en temps
+à quelques pas de la gare lille europe, âne, cochons, chèvres et autres animaux, ils organisent quelques événements de temps en temps, assez petit
 
 - **Friperie Aopop** :purple_heart: [:link:](https://www.instagram.com/friperie.aopop/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I45DAE46B22B63DF3&address=6+Rue+Ratisbonne%2C+59800+Lille%2C+France&coordinate=50.6303387%2C3.0559825&name=Friperie+Aopop&_provider=9902)
 
@@ -108,7 +108,7 @@ activité vraiment agréable quand il fait beau, possible de louer différents b
 
 <img src="/assets/images/divers/satori.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-the place to buy matcha in lille, le gars est passioné et s'y connaît vraiment bien, je crois qu'il est aussi possible de déguster sur place, il organise notamment des cérémonies du thé commme le veut la tradition japonaise
+the place to buy matcha in lille, le gars est passionné et s'y connaît vraiment bien, je crois qu'il est aussi possible de déguster sur place, il organise notamment des cérémonies du thé comme le veut la tradition japonaise
 
 - **Mercerie Friperie** :purple_heart: [:link:](https://www.instagram.com/mercerie_friperie/?hl=fr) [:apple:](https://maps.apple.com/place?place-id=I81110280CF07B98A&address=34+Rue+d%27Amiens%2C+59800+Lille%2C+France&coordinate=50.6332685%2C3.064494&name=Mercerie+Friperie&_provider=9902)
 

@@ -42,4 +42,4 @@ j'étais un peu en beef avec la patinoire par le passé mais en fait c'est trop 
 
 <img src="/assets/images/divertissement/quizz.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-jamais fait mais ça peut être fun pour les personnes qui aiment toutes sortes de jeux / quizz de culture g etc
+jamais fait mais ça peut être fun pour les personnes qui aiment toutes sortes de jeux / quizz de culture g / musicale etc

@@ -27,21 +27,21 @@ resto japonais situé dans le vieux-lille, les ramens ont l'air sympa !!
 
 <img src="/assets/images/restauration/bierbuik.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-ils appellent ça un "brewpub", en gros au rez-de-chaussé t'as un endroit pour manger des plats inspirés des spécialités de la région, mais pas que, a partager, ou pas, ils proposent leur propre bière
+ils appellent ça un "brewpub", en gros au rez-de-chaussée t'as un endroit pour manger des plats inspirés des spécialités de la région, mais pas que, à partager, ou pas, ils proposent leur propre bière
 mention spéciale aux frites au maroilles, aux flamiches et à leur sauce aux poireaux
-a l'étage ils proposent une formule entrée - plat - dessert à 30€ pour quelque chose de plus raffiné mais toujours avec des produits locaux
+à l'étage ils proposent une formule entrée - plat - dessert à 30€ pour quelque chose de plus raffiné mais toujours avec des produits locaux
 
 - **Big mamma** :blue_heart: [:link:](https://www.bigmammagroup.com/fr/restaurants-italiens/la-bellezza-lille) [:apple:](https://maps.apple.com/place?place-id=I2A9FC30CFDDF3C32&address=126+Rue+Esquermoise%2C+59800+Lille%2C+France&coordinate=50.6390103%2C3.0588394&name=La+Bellezza&_provider=9902)
 
 <img src="/assets/images/restauration/bigmamma.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-restaurant issue d'une chaîne présente dans de nombreuses villes en france, toujours agréable de s'y rendre quand même pour y manger de bon plats italiens
+restaurant issu d'une chaîne présente dans de nombreuses villes en france, toujours agréable de s'y rendre quand même pour y manger de bons plats italiens
 
 - **Bistrot tao** :blue_heart: [:link:](https://bistrottao59.com/fr/) [:apple:](https://maps.apple.com/place?place-id=I12918588EC0D52B5&address=126+Rue+du+Molinel%2C+59800+Lille%2C+France&coordinate=50.6332389%2C3.0648636&name=Bistrot+Tao&_provider=9902)
 
 <img src="/assets/images/restauration/tao.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-resto "à volonté" dans le centre (limité à nombre de service, je sais plus combien exactement), qualité ok, intéressant pour les grandes faims
+resto "à volonté" dans le centre (limité au nombre de service, je sais plus combien exactement), qualité ok, intéressant pour les grandes faims
 
 - **Bouillant** :green_heart: [:link:](https://www.restaurant-bouillant-lille.com/) [:apple:](https://maps.apple.com/place?place-id=IEA5B50E3D2AF96BA&address=358+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6270068%2C3.0483332&name=Bouillant&_provider=9902)
 
@@ -122,7 +122,7 @@ cuisine française, cadre sympa, c'est ok
 
 <img src="/assets/images/restauration/loa.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-encore une adresse qui me fait presque regretter mon déménagement, street food caribéennes avec notamment des bokits accompagnés d'allocos et d'accras, vraiment bon et pas très cher
+encore une adresse qui me fait presque regretter mon déménagement, street food caribéenne avec notamment des bokits accompagnés d'allocos et d'accras, vraiment bon et pas très cher
 
 - **Maison L** :purple_heart: [:link:](https://maison-l.eatbu.com/?lang=fr) [:apple:](https://maps.apple.com/place?place-id=I422FB525FDD33A49&address=324+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6273742%2C3.0494222&name=Maison+L&_provider=9902)
 
@@ -134,7 +134,7 @@ encore une adresse qui me fait presque regretter mon déménagement, street food
 
 <img src="/assets/images/restauration/marco.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-pizzeria pas si vieille que ça, le gars est vraiment passioné par son boulot, il apporte aussi quelques inspirations libanaises dans sa cuisine, mention spéciale à la pizza poulet maroilles
+pizzeria pas si vieille que ça, le gars est vraiment passionné par son boulot, il apporte aussi quelques inspirations libanaises dans sa cuisine, mention spéciale à la pizza poulet maroilles
 
 - **Mian dian** :purple_heart: [:apple:](https://maps.apple.com/place?place-id=I7E60E4EDE6BD93DE&address=113+Rue+Meurein%2C+59800+Lille%2C+France&coordinate=50.6323767%2C3.048634&name=Mian+Dian&_provider=9902)
 
@@ -170,10 +170,12 @@ j'avais le souvenir qu'il faisait de la cuisine vg mais il semblerait qu'ils aie
 
 <img src="/assets/images/restauration/pny.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-parmi mes burgers préférées de lille, ils sont gourmands et goûtus !!
+parmi mes burgers préférées de lille, ils sont gourmands et goûteux !!
 
 - **Taco Memo** :purple_heart: [:link:](https://tacomemo.com/) [:apple:](https://maps.apple.com/place?place-id=I6C833001620FD8D6&address=209+Rue+L%C3%A9on+Gambetta%2C+59000+Lille%2C+France&coordinate=50.6288708%2C3.0536199&name=Taco+Memo&_provider=9902)
 
 <img src="/assets/images/restauration/taco.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
 p'tit mexicain rue gambetta, les burritos sont généreux et les prix plutôt raisonnables je dirais 
+
+- TODO smokey banh mi   

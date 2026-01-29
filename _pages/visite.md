@@ -24,13 +24,13 @@ title: "Visites culturelles"
 
 <img src="/assets/images/visite/treille.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-visitée lors de la dernière journée du patrimoine, cathédrale pas forcément très charmante de l'extérieure mais son histoire est fortement intéressante, s'il y a la possibilité de faire une visite guidée c'est aussi l'occasion d'en apprendre plus sur l'histoire de lille
+visitée lors des dernières journées du patrimoine, cathédrale pas forcément très charmante de l'extérieur mais son histoire est fortement intéressante, s'il y a la possibilité de faire une visite guidée c'est aussi l'occasion d'en apprendre plus sur l'histoire de lille
 
 - **Institut du monde arabe** :green_heart: [:link:](https://www.ima-tourcoing.fr/) [:apple:](https://maps.apple.com/place?place-id=I5F28F26D579B2705&address=9+Rue+Gabriel+P%C3%A9ri%2C+59200+Tourcoing%2C+France&coordinate=50.7252879%2C3.158027&name=Institut+du+Monde+Arabe&_provider=9902)
 
 <img src="/assets/images/visite/ima.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 
-encore jamais fait, mais ça ne saurait tardé pcq il y a une exposition qui m'intéresse sur bagdad en collab avec un jeu et elle se termine bientôt !!
+encore jamais fait, mais ça ne saurait tarder pcq il y a une exposition qui m'intéresse sur bagdad en collab avec un jeu et elle se termine bientôt !!
 
 - **La piscine de Roubaix** :purple_heart: [:link:](https://www.roubaix-lapiscine.com/) [:apple:](https://maps.apple.com/place?place-id=I2C0035FCC79BD449&address=23+Rue+de+l%27Esp%C3%A9rance%2C+59100+Roubaix%2C+France&coordinate=50.6929969%2C3.1679039&name=La+Piscine+de+Roubaix&_provider=9902)
 
