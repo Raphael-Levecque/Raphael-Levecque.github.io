@@ -72,8 +72,6 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "raph_g15"
 instagram:
   username               : &instagram "raphael.21l"
   app_id                 :
@@ -85,7 +83,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/raph_g15"
     - "https://www.instagram.com/raphael.21l"
 
 # Analytics
@@ -98,15 +95,19 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raph_g15"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Raphael-Levecque"
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/raphael.21l"
+    - label: ""
+      icon: "/assets/images/other/letterboxd.png" 
+      url: "https://letterboxd.com/raph_grash/"
+    - label: ""
+      icon: "/assets/images/other/of.png"
+      url: "https://raphael-levecque.github.io/of/"
+
   since: "2026"
 
 
