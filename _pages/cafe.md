@@ -128,7 +128,7 @@ café bien situé, pas mal de place à l'intérieur
 
 les meilleures pâtisseries que j'ai mangées viennent d'ici, beaucoup s'y rendent pour leurs gaufres, je préfère prendre une pâtisserie, possibilité de déguster sur place dans un cadre charmant mais ça revient un peu cher, vendent de bonnes glaces en été aussi
 
-- **The french bastards** :blue_heart: [:link:](https://thefrenchbastards.fr/fr) [:apple:](https://maps.apple.com/place?place-id=I16413D94D86E5359&address=33+Rue+Neuve%2C+59000+Lille%2C+France&coordinate=50.6354392%2C3.0645495&name=The+French+Bastards&_provider=9902)
+- **The french bastards** :blue_heart: [:link:](https://thefrenchbastards.fr/fr) [:apple:](https://maps.apple.com/place?place-id=I55DD7ABB59E22F5C&address=52+Rue+Basse%2C+59800+Lille%2C+France&coordinate=50.6387076%2C3.0599814&name=The+French+Bastards&_provider=9902)
 
 <img src="/assets/images/cafe/bastards.jpg" style="max-width: 50%; max-height: 200px; width: auto; height: auto; object-fit: contain;">
 

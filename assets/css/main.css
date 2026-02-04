@@ -1569,7 +1569,7 @@ th {
   -webkit-animation-delay:0.15s;
   animation-delay:0.15s;
   z-index:20;
-  background-color: #765fb0
+  background-color: #54447E
 }
 .masthead__inner-wrap {
   clear:both;
@@ -1801,12 +1801,12 @@ th {
   -ms-flex-align:center;
   align-items:center;
   min-height:2em;
-  background-color: #765fb0/*ok*/
+  background-color: #54447E/*ok*/
 }
 .greedy-nav a {
   display:block;
   margin:0 1rem;
-  color: #bee3b6; /*ok*/
+  color: #ABCCA3; /*ok*/
   text-decoration:none;
   -webkit-transition:none;
   transition:none
@@ -2141,12 +2141,12 @@ th {
   margin-right:0;
   width:100%;
   margin-top:3em;
-  color:#765fb0; /*ok*/
+  color:#54447E; /*ok*/
   -webkit-animation:intro 0.3s both;
   animation:intro 0.3s both;
   -webkit-animation-delay:0.45s;
   animation-delay:0.45s;
-  background-color:#bee3b6 /*ok*/
+  background-color:#ABCCA3 /*ok*/
 }
 .page__footer::after {
   clear:both;
@@ -2800,7 +2800,7 @@ body:hover .visually-hidden button {
   position:relative;
   width:1.5rem;
   height:.25rem;
-  background:#bee3b6; /*ok*/
+  background:#ABCCA3; /*ok*/
   margin:auto;
   -webkit-transition:0.3s;
   transition:0.3s
@@ -2812,7 +2812,7 @@ body:hover .visually-hidden button {
   left:0;
   width:1.5rem;
   height:.25rem;
-  background:#bee3b6; /*ok*/
+  background:#ABCCA3; /*ok*/
   -webkit-transition:0.3s;
   transition:0.3s
 }
@@ -2865,7 +2865,7 @@ body:hover .visually-hidden button {
 .greedy-nav__toggle:hover .navicon,
 .greedy-nav__toggle:hover .navicon:before,
 .greedy-nav__toggle:hover .navicon:after {
-  background:#bee3b6
+  background:#ABCCA3
 }
 .greedy-nav__toggle:hover.close .navicon {
   background:transparent
