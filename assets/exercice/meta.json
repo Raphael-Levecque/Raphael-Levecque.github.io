@@ -1,16 +1,12 @@
 {
-  "mime": "image/png",
-  "iterations": 200000,
-  "salt": "Mz5vLXrmqUQhsvZZVS9PiQ==",
-  "iv": "dPOfFc5uQz/3zWSF",
   "tests": [
     {
       "args": "!!issuér sa ut",
-      "hash": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+      "hash": "7bc82dfff841880f00f65f5bd0606d976cba90017a7a1be3515cbc53fe7b6e62"
     },
     {
-      "args":"62549619d8edd5c5=is?vv2q89CeR6x1uozxQANxh5/tsilyalp/moc.yfitops.nepo//:sptth : simorp emmoc",
-      "hash": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
+      "args": "62549619d8edd5c5=is?vv2q89CeR6x1uozxQANxh5/tsilyalp/moc.yfitops.nepo//:sptth : simorp emmoc",
+      "hash": "d4cbfab0378a8e3613340aa2b9c9c49d4e0a2100a66e837a63504a94e0b26c5a"
     }
   ]
 }
