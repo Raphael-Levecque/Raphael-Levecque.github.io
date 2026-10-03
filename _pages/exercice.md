@@ -24,26 +24,33 @@ petit exercice python qui débloque quelque chose si t'y arrives (j'espère!)
   <button id="hint-two-button" type="button">un autre en fait</button>
   <p id="hint-two" hidden>
   pour rappel : 
-  - on peut parcourir une chaine de caractères grâce à une boucle for : 
+  - on peut parcourir des indices une boucle for : 
   ```python
-  for c in "toto":
-    print(c)
-  >>> t
-  >>> o
-  >>> t
-  >>> o
+  for i in range(3):
+    print(i)
+  >>> 0
+  >>> 1
+  >>> 2
+  ```
+  - range fonctionne peut aussi être appelé comme ça `range(start,end,step)` en sachant que la boucle s'arrête à end-step, par exemple : 
+  ```python
+  for i in range(10,0,-2):
+    print(i)
+  >>> 10
+  >>> 8
+  >>> 6
+  >>> 4
+  >>> 2
   ```
   </p>
   <button id="soluce-button" type="button">ça m'emmerde ton truc donne la réponse là</button>
-  <p id="hint-two" hidden>
-  pour rappel : 
-  - on peut parcourir une chaine de caractères grâce à une boucle for : 
+  <p id="soluce" hidden> 
   ```python
-  def reverse_string(some_str):
+  def reverse_string(some_str : str) -> str:
       res = ""
       len_str = len(some_str)
-      for c in some_str:
-          res += c
+      for i in range(len_str-1,-1,-1):
+          res += some_str[i]
       return res
   ```
   ou en une ligne 
