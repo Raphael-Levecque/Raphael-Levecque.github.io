@@ -2,7 +2,7 @@
 // Python tourne dans le navigateur (Pyodide). La page ne contient que les
 // empreintes SHA-256 des résultats attendus (voir tools/build_exercice.py).
 const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
-const FUNC_NAME = "inverser";
+const FUNC_NAME = "reverse_string";
 
 const $ = (id) => document.getElementById(id);
 let pyodidePromise = null;
@@ -94,7 +94,7 @@ async function runTests() {
     }
 
     if (!allOk) {
-      status.textContent = "pas encore… regarde les ❌ 🙂";
+      status.textContent = "pas encore ça ...";
       return;
     }
     status.textContent = "let's gooo t'es informaticienne maintenant";
