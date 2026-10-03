@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "lorem"
+title                    : "exerice d'une difficulté extrême pour louise"
 title_separator          : "-"
-subtitle                 : "lorem"
+subtitle                 : ""
 name                     : &name "Raphaël Levecque" # &name is a YAML anchor which can be *referenced later
 description              : &description "laura, raphaël, des trucs à faire, ou faits, ensemble, ou pas !"
 url                      : https://raphael-levecque.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

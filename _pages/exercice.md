@@ -16,19 +16,17 @@ petit exercice python qui débloque quelque chose si t'y arrives (j'espère!)
   <button type="button" data-toggle="hint-one">un indice stpp</button>
   <div id="hint-one" markdown="1" hidden>
 
-  pour rappel :
 
   - on peut créer une chaîne vide : `res = ""`
-  - on peut ajouter un caractère à la fin : `res += c`
-  - `len("world")` renvoie 5
-  - `"hello"[1]` renvoie `e` (l'indexation commence à 0)
+  - on peut ajouter un caractère à la fin d'une chaîne : `res += c`
+  - on peut connaître la longueur d'une chaîne `len("world")` renvoie 5
+  - `"hello"[0]` renvoie `h` et "hello[4]" renvoie `o`(l'indexation commence à 0 et fini à la longueur de la chaîne - 1)
 
   </div>
 
-  <button type="button" data-toggle="hint-two">un autre en fait</button>
+  <button type="button" data-toggle="hint-two">un autre</button>
   <div id="hint-two" markdown="1" hidden>
 
-  pour rappel :
 
   ```python
   for i in range(10, 0, -2):
