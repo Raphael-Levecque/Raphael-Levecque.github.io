@@ -40,7 +40,7 @@ async function runTests() {
   btn.disabled = true;
   list.innerHTML = ""; reveal.innerHTML = "";
   try {
-    status.textContent = "chargement de Python ...";
+    status.textContent = "chargement de Python (la 1re fois ça prend quelques secondes)…";
     const [py, meta] = await Promise.all([
       loadPyodideOnce(),
       fetch("/assets/exercice/meta.json").then((r) => r.json()),
@@ -68,7 +68,7 @@ async function runTests() {
       let out, err = null;
       try {
         py.globals.set("_args", py.toPy(t.args));
-        out = await py.runPythonAsync(`str(_ns["${FUNC_NAME}"](list(_args)))`);
+        out = await py.runPythonAsync(`str(_ns["${FUNC_NAME}"](_args))`);
       } catch (e) {
         err = String(e.message).split("\n").slice(-2).join(" ");
         out = "";

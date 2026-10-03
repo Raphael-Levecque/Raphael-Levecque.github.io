@@ -1,8 +1,8 @@
 def reverse_string(some_str : str) -> str:
     res = ""
     len_str = len(some_str)
-    for i in range(len_str-1,-1,-1):
-        res += some_str[i]
+    for c in some_str:
+        res += c
     return res
     
 
