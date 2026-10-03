@@ -2,7 +2,7 @@
 // Python tourne dans le navigateur (Pyodide). L'image est chiffrée (AES-GCM) ;
 // la clé est dérivée des résultats de la bonne solution, voir tools/build_exercice.py
 const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
-const FUNC_NAME = "somme_pairs";
+const FUNC_NAME = "reverse_string";
 
 const $ = (id) => document.getElementById(id);
 let pyodidePromise = null;
