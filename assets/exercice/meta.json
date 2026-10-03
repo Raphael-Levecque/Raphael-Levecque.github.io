@@ -6,48 +6,27 @@
   "tests": [
     {
       "args": [
-        1,
-        2,
-        3,
-        4
+      "!!issuér sa ut"
       ],
       "hash": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
     },
     {
       "args": [
-        10,
-        15,
-        20
+        ": simorp emmoc"
       ],
       "hash": "624b60c58c9d8bfb6ff1886c2fd605d2adeb6ea4da576068201b6c6958ce93f4"
     },
     {
-      "args": [],
-      "hash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
-    },
-    {
       "args": [
-        7,
-        9
+        "!!issuér"
       ],
       "hash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
     },
     {
       "args": [
-        -2,
-        -4,
-        5
+    "62549619d8edd5c5=is?vv2q89CeR6x1uozxQANxh5/tsilyalp/moc.yfitops.nepo//:sptth"
       ],
-      "hash": "03b26944890929ff751653acb2f2af795cee38f937f379f52ed654a68ce91216"
-    },
-    {
-      "args": [
-        100,
-        1,
-        1,
-        2
-      ],
-      "hash": "37834f2f25762f23e1f74a531cbe445db73d6765ebe60878a7dfbecd7d4af6e1"
+      "hash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
     }
   ]
 }

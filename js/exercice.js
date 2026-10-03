@@ -40,7 +40,7 @@ async function runTests() {
   btn.disabled = true;
   list.innerHTML = ""; reveal.innerHTML = "";
   try {
-    status.textContent = "chargement de Python (la 1re fois ça prend quelques secondes)…";
+    status.textContent = "chargement de Python ...";
     const [py, meta] = await Promise.all([
       loadPyodideOnce(),
       fetch("/assets/exercice/meta.json").then((r) => r.json()),
