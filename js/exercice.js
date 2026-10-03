@@ -107,6 +107,12 @@ async function runTests() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("[data-toggle]").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const el = document.getElementById(btn.dataset.toggle);
+    el.hidden = !el.hidden;   // un 2e clic le recache
+  });
+  });
   $("exo-run").addEventListener("click", runTests);
   // Tab = 4 espaces dans l'éditeur
   $("exo-code").addEventListener("keydown", (e) => {
