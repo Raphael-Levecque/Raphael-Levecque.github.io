@@ -20,14 +20,14 @@ petit exercice python qui débloque quelque chose si t'y arrives (j'espère!)
   - on peut créer une chaîne vide : `res = ""`
   - on peut ajouter un caractère à la fin d'une chaîne : `res += c`
   - on peut connaître la longueur d'une chaîne `len("world")` renvoie 5
-  - `"hello"[0]` renvoie `h` et `"hello[4]"` renvoie `o`(l'indexation commence à 0 et fini à la longueur de la chaîne - 1)
+  - `"hello"[0]` renvoie `h` et `"hello"[4]` renvoie `o`(l'indexation commence à 0 et fini à la longueur de la chaîne - 1)
 
   </div>
 
   <button type="button" data-toggle="hint-two">un autre</button>
   <div id="hint-two" markdown="1" hidden>
 
-  - on peut parcour des indices grâce à une boucle for et range
+  - on peut parcourir des indices grâce à une boucle for et range
 
   ```python
   for i in range(3):
@@ -48,17 +48,17 @@ petit exercice python qui débloque quelque chose si t'y arrives (j'espère!)
 
   ```python
   def reverse_string(texte):
-      res = ""
-      for i in range(len(texte) - 1, -1, -1):
-          res += texte[i]
-      return res
+    res = ""
+    for i in range(len(texte) - 1, -1, -1):
+      res += texte[i]
+    return res
   ```
 
   ou en une ligne :
 
   ```python
   def reverse_string(texte):
-      return texte[::-1]
+    return texte[::-1]
   ```
 
   </div>

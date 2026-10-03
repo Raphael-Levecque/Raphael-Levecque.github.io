@@ -1806,7 +1806,7 @@ th {
 .greedy-nav a {
   display:block;
   margin:0 1rem;
-  color: #5b0000; /*ok*/
+  color: #910101; /*ok*/
   text-decoration:none;
   -webkit-transition:none;
   transition:none
@@ -2146,7 +2146,7 @@ th {
   animation:intro 0.3s both;
   -webkit-animation-delay:0.45s;
   animation-delay:0.45s;
-  background-color:#5b0000 /*ok*/
+  background-color:#910101 /*ok*/
 }
 .page__footer::after {
   clear:both;
@@ -2800,7 +2800,7 @@ body:hover .visually-hidden button {
   position:relative;
   width:1.5rem;
   height:.25rem;
-  background:#5b0000; /*ok*/
+  background:#910101; /*ok*/
   margin:auto;
   -webkit-transition:0.3s;
   transition:0.3s
@@ -2812,7 +2812,7 @@ body:hover .visually-hidden button {
   left:0;
   width:1.5rem;
   height:.25rem;
-  background:#5b0000; /*ok*/
+  background:#910101; /*ok*/
   -webkit-transition:0.3s;
   transition:0.3s
 }
@@ -2865,7 +2865,7 @@ body:hover .visually-hidden button {
 .greedy-nav__toggle:hover .navicon,
 .greedy-nav__toggle:hover .navicon:before,
 .greedy-nav__toggle:hover .navicon:after {
-  background:#5b0000
+  background:#910101
 }
 .greedy-nav__toggle:hover.close .navicon {
   background:transparent
@@ -4394,7 +4394,7 @@ div#reco a:visited {
 
 div#reco a:hover {
   text-decoration: none;
-  color: #860202;
+  color: #910101;
 }
 
 
