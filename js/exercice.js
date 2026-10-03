@@ -97,7 +97,7 @@ async function runTests() {
       status.textContent = "pas encore ça ...";
       return;
     }
-    status.textContent = "let's gooo t'es informaticienne maintenant";
+    status.textContent = "let's gooo t'es informaticienne maintenant (ou bien t'as triché ??!)";
     results.forEach((r) => renderMessage(reveal, r));
   } catch (e) {
     status.textContent = "⚠️ " + e.message;
