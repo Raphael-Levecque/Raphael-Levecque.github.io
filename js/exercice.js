@@ -2,19 +2,8 @@
 // Python tourne dans le navigateur (Pyodide). La page ne contient que les
 // empreintes SHA-256 des résultats attendus (voir tools/build_exercice.py).
 const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
-const FUNC_NAME = "reverse_string";
+const FUNC_NAME = "inverser";
 
-const displayHintOne = () => {
-  document.getElementById("hint-one").hidden = !document.getElementById("hint-one").hidden;
-}
-
-const displayHintTwo = () => {
-  document.getElementById("hint-two").hidden = !document.getElementById("hint-two").hidden;
-}
-
-const displaySoluce = () => {
-  document.getElementById("soluce").hidden = !document.getElementById("soluce").hidden;
-}
 const $ = (id) => document.getElementById(id);
 let pyodidePromise = null;
 
@@ -54,7 +43,7 @@ async function runTests() {
   btn.disabled = true;
   list.innerHTML = ""; reveal.innerHTML = "";
   try {
-    status.textContent = "chargement de Python (la 1re fois ça prend quelques secondes)…";
+    status.textContent = "chargement …";
     const [py, meta] = await Promise.all([
       loadPyodideOnce(),
       fetch("/assets/exercice/meta.json", { cache: "no-store" }).then((r) => r.json()),
@@ -62,12 +51,18 @@ async function runTests() {
     status.textContent = "exécution…";
 
     const ns = py.globals.get("dict")();
-    py.globals.set("_code", $("exo-code").value);
+    // Nettoie le code collé : espaces insécables, tabulations, retours Windows
+    const code = $("exo-code").value
+      .replace(/[\u00a0\u2000-\u200a\u202f\u3000]/g, " ")
+      .replace(/\u200b/g, "")
+      .replace(/\r\n?/g, "\n")
+      .replace(/\t/g, "    ");
+    py.globals.set("_code", code);
     py.globals.set("_ns", ns);
     try {
-      await py.runPythonAsync("exec(_code, _ns)");
+      await py.runPythonAsync("import textwrap\nexec(textwrap.dedent(_code), _ns)");
     } catch (e) {
-      status.textContent = "❌ erreur dans ton code";
+      status.textContent = "❌ erreur";
       const li = document.createElement("li");
       li.style.whiteSpace = "pre-wrap";
       li.textContent = String(e.message).split("\n").slice(-4).join("\n");
@@ -102,6 +97,7 @@ async function runTests() {
       status.textContent = "pas encore… regarde les ❌ 🙂";
       return;
     }
+    status.textContent = "let's gooo t'es informaticienne maintenant";
     results.forEach((r) => renderMessage(reveal, r));
   } catch (e) {
     status.textContent = "⚠️ " + e.message;
@@ -111,12 +107,6 @@ async function runTests() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  document.querySelectorAll("[data-toggle]").forEach((btn) => {
-  btn.addEventListener("click", () => {
-    const el = document.getElementById(btn.dataset.toggle);
-    el.hidden = !el.hidden;   // un 2e clic le recache
-    });
-  })
   $("exo-run").addEventListener("click", runTests);
   // Tab = 4 espaces dans l'éditeur
   $("exo-code").addEventListener("keydown", (e) => {
