@@ -2,8 +2,29 @@
 // Python tourne dans le navigateur (Pyodide). La page ne contient que les
 // empreintes SHA-256 des résultats attendus (voir tools/build_exercice.py).
 const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
-const FUNC_NAME = "inverser";
+const FUNC_NAME = "reverse_string";
 
+const hintOneButton = document.getElementById("hint-one-button");
+const hintTwoButton = document.getElementById("hint-two-button");
+const soluceButton = document.getElementById("soluce-button");
+
+const setUpListeners = () => {
+  hintOneButton.addEventListener('onClick',displayHintOne)
+  hintTwoButton.addEventListener('onClick',displayHintTwo)
+  soluceButton.addEventListener('onClick',displaySoluce)
+}
+
+const displayHintOne = () => {
+  document.getElementById("hint-one").hidden = !document.getElementById("hint-one").hidden;
+}
+
+const displayHintTwo = () => {
+  document.getElementById("hint-two").hidden = !document.getElementById("hint-two").hidden;
+}
+
+const displaySoluce = () => {
+  document.getElementById("soluce").hidden = !document.getElementById("soluce").hidden;
+}
 const $ = (id) => document.getElementById(id);
 let pyodidePromise = null;
 
@@ -91,7 +112,6 @@ async function runTests() {
       status.textContent = "pas encore… regarde les ❌ 🙂";
       return;
     }
-    status.textContent = "🎉 débloqué !";
     results.forEach((r) => renderMessage(reveal, r));
   } catch (e) {
     status.textContent = "⚠️ " + e.message;
@@ -110,3 +130,5 @@ document.addEventListener("DOMContentLoaded", () => {
     t.setRangeText("    ", t.selectionStart, t.selectionEnd, "end");
   });
 });
+
+setUpListeners();
