@@ -4,16 +4,6 @@
 const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
 const FUNC_NAME = "reverse_string";
 
-const hintOneButton = document.getElementById("hint-one-button");
-const hintTwoButton = document.getElementById("hint-two-button");
-const soluceButton = document.getElementById("soluce-button");
-
-const setUpListeners = () => {
-  hintOneButton.addEventListener('onClick',displayHintOne)
-  hintTwoButton.addEventListener('onClick',displayHintTwo)
-  soluceButton.addEventListener('onClick',displaySoluce)
-}
-
 const displayHintOne = () => {
   document.getElementById("hint-one").hidden = !document.getElementById("hint-one").hidden;
 }
@@ -121,6 +111,12 @@ async function runTests() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("[data-toggle]").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    const el = document.getElementById(btn.dataset.toggle);
+    el.hidden = !el.hidden;   // un 2e clic le recache
+    });
+  })
   $("exo-run").addEventListener("click", runTests);
   // Tab = 4 espaces dans l'éditeur
   $("exo-code").addEventListener("keydown", (e) => {
@@ -130,5 +126,3 @@ document.addEventListener("DOMContentLoaded", () => {
     t.setRangeText("    ", t.selectionStart, t.selectionEnd, "end");
   });
 });
-
-setUpListeners();

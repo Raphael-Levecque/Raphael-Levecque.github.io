@@ -13,52 +13,49 @@ petit exercice python qui débloque quelque chose si t'y arrives (j'espère!)
 ```
 
 <div id ="hints">
-  <button id="hint-one-button" type="button">un indice stpp</button>
-  <p id="hint-one" hidden>
-  pour rappel : 
-  - on il est possible de créer une nouvelle chaîne de caractères `res = ""`
-  - on peut ajouter un caractère à la fin de la chaîne : `res += `c`
-  - on peut accéder à la longueur de la chaîne : `len("wolrd")` # renvoie 5 
-  - on peut accèder au `i-ème caractère + 1` d'une chaîne : `"hello"[1] # renvoie `e`, l'indexation commence à 0 et se 
-  </p>
-  <button id="hint-two-button" type="button">un autre en fait</button>
-  <p id="hint-two" hidden>
-  pour rappel : 
-  - on peut parcourir des indices une boucle for : 
+  <button type="button" data-toggle="hint-one">un indice stpp</button>
+  <div id="hint-one" markdown="1" hidden>
+
+  pour rappel :
+
+  - on peut créer une chaîne vide : `res = ""`
+  - on peut ajouter un caractère à la fin : `res += c`
+  - `len("world")` renvoie 5
+  - `"hello"[1]` renvoie `e` (l'indexation commence à 0)
+
+  </div>
+
+  <button type="button" data-toggle="hint-two">un autre en fait</button>
+  <div id="hint-two" markdown="1" hidden>
+
+  pour rappel :
+
   ```python
-  for i in range(3):
-    print(i)
-  >>> 0
-  >>> 1
-  >>> 2
+  for i in range(10, 0, -2):
+      print(i)   # 10, 8, 6, 4, 2
   ```
-  - range fonctionne peut aussi être appelé comme ça `range(start,end,step)` en sachant que la boucle s'arrête à end-step, par exemple : 
+
+  </div>
+
+  <button type="button" data-toggle="soluce">ça m'emmerde ton truc donne la réponse là</button>
+  <div id="soluce" markdown="1" hidden>
+
   ```python
-  for i in range(10,0,-2):
-    print(i)
-  >>> 10
-  >>> 8
-  >>> 6
-  >>> 4
-  >>> 2
-  ```
-  </p>
-  <button id="soluce-button" type="button">ça m'emmerde ton truc donne la réponse là</button>
-  <p id="soluce" hidden> 
-  ```python
-  def reverse_string(some_str : str) -> str:
+  def inverser(texte):
       res = ""
-      len_str = len(some_str)
-      for i in range(len_str-1,-1,-1):
-          res += some_str[i]
+      for i in range(len(texte) - 1, -1, -1):
+          res += texte[i]
       return res
   ```
-  ou en une ligne 
+
+  ou en une ligne :
+
   ```python
-    def reverse_string(some_str):
-      return some_str[::-1]
+  def inverser(texte):
+      return texte[::-1]
   ```
-  </p>
+
+  </div>
 </div>
 
 <div id="exo">
