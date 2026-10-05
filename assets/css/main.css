@@ -1569,7 +1569,7 @@ th {
   -webkit-animation-delay:0.15s;
   animation-delay:0.15s;
   z-index:20;
-  background-color: #000000
+  background-color: #7A6346
 }
 .masthead__inner-wrap {
   clear:both;
@@ -1801,18 +1801,18 @@ th {
   -ms-flex-align:center;
   align-items:center;
   min-height:2em;
-  background-color: #000000/*ok*/
+  background-color: #7A6346/*ok*/
 }
 .greedy-nav a {
   display:block;
   margin:0 1rem;
-  color: #910101; /*ok*/
+  color: #F2E3C4; /*ok*/
   text-decoration:none;
   -webkit-transition:none;
   transition:none
 }
 .greedy-nav a:hover {
-  color: #587a81 /*ok*/
+  color: #708090 /*ok*/
 }
 .greedy-nav a.site-logo {
   margin-left:0;
@@ -2141,12 +2141,12 @@ th {
   margin-right:0;
   width:100%;
   margin-top:3em;
-  color:#000000; /*ok*/
+  color:#7A6346; /*ok*/
   -webkit-animation:intro 0.3s both;
   animation:intro 0.3s both;
   -webkit-animation-delay:0.45s;
   animation-delay:0.45s;
-  background-color:#910101 /*ok*/
+  background-color:#F2E3C4 /*ok*/
 }
 .page__footer::after {
   clear:both;
@@ -2800,7 +2800,7 @@ body:hover .visually-hidden button {
   position:relative;
   width:1.5rem;
   height:.25rem;
-  background:#910101; /*ok*/
+  background:#F2E3C4; /*ok*/
   margin:auto;
   -webkit-transition:0.3s;
   transition:0.3s
@@ -2812,7 +2812,7 @@ body:hover .visually-hidden button {
   left:0;
   width:1.5rem;
   height:.25rem;
-  background:#910101; /*ok*/
+  background:#F2E3C4; /*ok*/
   -webkit-transition:0.3s;
   transition:0.3s
 }
@@ -2865,7 +2865,7 @@ body:hover .visually-hidden button {
 .greedy-nav__toggle:hover .navicon,
 .greedy-nav__toggle:hover .navicon:before,
 .greedy-nav__toggle:hover .navicon:after {
-  background:#910101
+  background:#F2E3C4
 }
 .greedy-nav__toggle:hover.close .navicon {
   background:transparent
@@ -4375,26 +4375,26 @@ body {
 }
 
 h1 {
-  color: #587a81
+  color: #708090
 }
 
 h2 {
-  color: #587a81
+  color: #708090
 }
 
 div#reco a:link {
   text-decoration: none;
-  color: #000000;
+  color: #7A6346;
 }
 
 div#reco a:visited {
   text-decoration: none;
-  color: #000000;
+  color: #7A6346;
 }
 
 div#reco a:hover {
   text-decoration: none;
-  color: #910101;
+  color: #F2E3C4;
 }
 
 
